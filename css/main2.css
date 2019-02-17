@@ -1,0 +1,53 @@
+헤더
+header {
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+#h {
+    position: absolute;
+    top: 150px;
+    left: 160px;
+}
+
+#y {
+    position: absolute;
+    top: 340px;
+    left: 315px;
+}
+
+#p {
+    position: absolute;
+    top: 340px;
+    left: 485px;
+}
+
+#e {
+    position: absolute;
+    top: 305px;
+    left: 625px;
+}
+
+#r {
+    position: absolute;
+    top: 320px;
+    left: 770px;
+}
+
+#g {
+    position: absolute;
+    top: 300px;
+    left: 870px;
+}
+
+#u {
+    position: absolute;
+    top: 300px;
+    right: 315px;
+}
+
+#d {
+    position: absolute;
+    top: 150px;
+    right: 180px;
+}

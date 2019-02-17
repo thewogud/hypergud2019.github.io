@@ -1,0 +1,30 @@
+/*헤더*/
+header {
+    margin: 40px 0px 0px 0px;
+}
+
+
+#logo {
+    position: relative;
+    top: 45px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+#wrapper {
+    margin: 0 auto;
+    width: 700px;
+    height: 360px;
+    position: relative;
+    top: 100px;
+    padding: 20px;
+}
+
+h2 {
+    font-family: "UhBee tokki";
+    font-size: 30px;
+    font-weight: 700;
+    color: #49ffb9;
+    margin-left: 30px;
+}

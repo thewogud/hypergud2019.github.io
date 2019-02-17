@@ -1,0 +1,102 @@
+/*헤더*/
+header {
+    margin: 40px 1220px 0px 30px;
+/*    background-color: yellow;*/
+}
+
+
+#logo {
+/*    background-color: green;*/
+    padding: 0px 0px 00px 20px;
+}
+
+#logo h1 {
+    font-family: "HS봄바람체 2.0";
+    font-size: 53px;
+/*    color: white; > 반응안함*/
+/*    text-decoration: none;*/
+}
+
+#logo a {
+    color: #9668a4;
+    text-decoration: none;
+    line-height: 1.1;
+    letter-spacing: 2px;
+    display: inline-block;
+    padding: 10px;
+/*    position: absolute;*/
+    z-index: 2000;
+}
+
+
+#logo a:hover {
+    color: rgba(198, 144, 212, 0.79);
+    text-shadow:0 0 4px #c870c8, 0 0 4px #c870c8;
+}
+
+#logo a:hover #light{
+    color: white;
+    text-shadow:0 0 8px #d975d9, 0 0 8px #d975d9;
+}
+
+
+/*왼쪽 메뉴*/
+.menu {
+/*    background-color: rgb(217, 147, 236);*/
+    width: 200px;
+    height: 300px;
+    margin-top: 100px;
+    margin-right: 110px;
+    padding: 20px 0 0 25px;
+    position: absolute;
+    left: 20px;
+}
+
+.menu ul {
+    width: 200px;
+}
+
+.menu > ul {
+    position: absolute;
+    height: 400px;
+    display: block;
+    z-index: 500;
+}
+
+.menu > ul > li {
+    display: block;
+    position: absolute;
+    margin: 0;
+    padding: 0;
+}
+
+#menu1 {
+    top: 0px;
+}
+
+#menu2 {
+    top: 58px;
+}
+
+#menu3 {
+    top: 120px;
+}
+
+.menu ul li a {
+    display: block;
+}
+
+.menu > ul > li > a {
+    margin: 20px 0px;
+    padding: 10px;
+}
+
+#wrapper {
+    margin: 0 auto;
+    width: 1200px;
+    height: 600px;
+    display: inline-block;
+    position:absolute;
+    top: 100px;
+    right: 60px;
+}
